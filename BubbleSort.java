@@ -16,6 +16,7 @@
 		public static void swap( int[] a , int i, int j )
 		{
 			// Your code goes here
+			//The numbers are swapped
 			int temp;
 			temp=a[j];
 			a[j]=a[j+1];
